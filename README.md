@@ -4,6 +4,6 @@ Exploratory Data Analysis (EDA) of IMDb Movie Ratings and Reviews to Identify Us
 Preferences
 
 Team members:
-Deema Hamidah
-Hadeel Balahmar
-Shumokh Abdullah
+- Deema Hamidah
+- Hadeel Balahmar
+- Shumokh Abdullah
